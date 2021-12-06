@@ -1,0 +1,10 @@
+bus 20c
+route station1 station2 station3
+bus 32
+route station1 station2 station3
+bus 41
+route station1 station2 station3
+bus 50
+route station1 station2 station3
+bus 100
+route station1 station2 station3
